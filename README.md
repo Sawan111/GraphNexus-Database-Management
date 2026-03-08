@@ -4,7 +4,7 @@ GraphNexus is a powerful Graph Processing Database System designed to provide a 
 
 ## Introduction
 
-Graphity offers a versatile platform for working with various types of graphs. Some of its prospective use cases include:
+GraphNexus offers a versatile platform for working with various types of graphs. Some of its prospective use cases include:
 
 - **Social Networks Analysis:** Modeling social networks where nodes represent users and edges represent relationships.
 - **Fraud Detection:** Detecting fraudulent activities by analyzing patterns of connections between entities such as accounts, transactions, and IP addresses.
